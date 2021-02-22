@@ -4,6 +4,6 @@
   You must create your own whitelist.txt in the same directory for it to check who to ignore.
   
  # Requirements
-  Chromedriver.exe - https://chromedriver.chromium.org/ \n
-  Selenium \n
-  PyWin32 \n
+  Chromedriver.exe - https://chromedriver.chromium.org/,
+  Selenium,
+  PyWin32.
